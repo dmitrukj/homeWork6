@@ -1,0 +1,35 @@
+.subtitle {
+  height: 300px;
+  width: 300px;
+  border: 1px solid red;
+  padding: 25px 25px;
+}
+#input14 {
+  color: gray;
+}
+.input2 {
+  color: red;
+}
+#inpMy {
+  width: 100px;
+  padding: 1px 2px;
+}
+.inpMy2 {
+  width: 300px;
+  height: 50px;
+  color: red;
+  border-radius: 10px;
+}
+#subMy {
+  width: 300px;
+  height: 25px;
+}
+.myBtn {
+  cursor: pointer;
+}
+.myBtn2 {
+  cursor: not-allowed;
+}
+input {
+  width: 200px;
+}
